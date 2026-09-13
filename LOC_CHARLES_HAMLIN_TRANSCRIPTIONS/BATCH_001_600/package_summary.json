@@ -1,0 +1,16 @@
+{
+  "schema_version": "loc_transcription_draft_package.v1",
+  "pages": 600,
+  "items": 6,
+  "images_bytes": 116312563,
+  "transcripts_bytes": 1083751,
+  "automatic_format_checks_passed": 599,
+  "human_review_required": 600,
+  "loc_review_flag_counts": {
+    "explicit_omission_language": 1,
+    "possible_line_broken_word_requires_visual_review": 36
+  },
+  "rights_statement": "The Library of Congress's digital scans of the Charles S. Hamlin Papers are in the public domain and are free to use and reuse.",
+  "credit_line": "Library of Congress, Manuscript Division, Charles S. Hamlin Papers.",
+  "source_drafts": "local live-draft manifest (machine path intentionally omitted)"
+}
