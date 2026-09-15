@@ -1,0 +1,65 @@
+1,468 509 443 516
+492 102 147 245
+964 377 282 305
+1,456 479 429 548
+-1 -6 -3 +6
+The decline in reserve requirements of city banks relative to those
+of country banks became intensified during the next twelve years. Since
+vault cash was made a dead asset, neither earning interest nor available
+as reserves, pressure was placed upon member banks to reduce their vault
+cash as much as possible. On the average member banks held about one-
+half as much vault cash as required reserves. By 1929 this proportion
+had been reduced to less than one-fourth. The most substantial reduction
+occurred at city banks and the smallest reduction at country banks, as
+is indicated in the following table:
+Class of bank
+All
+national
+banks
+Central
+reserve
+city
+banks
+Reserve
+city
+banks
+Country
+banks
+March 27, 1929
+Vault
+cash
+Required
+reserves
+under
+existing
+law
+Total
+Required
+reserves
+Per-
+cent
+change
+Central reserve city banks...
+71
+927
+998
+1,298
+-25
+Reserve city banks............
+149
+762
+911
+1,166
+-22
+Country banks................
+297
+619
+916
+1,052
+-15
+All member banks...........
+517
+2,507
+2,824
+3,516
+-20
