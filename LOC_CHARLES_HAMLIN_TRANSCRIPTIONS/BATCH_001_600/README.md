@@ -1,14 +1,9 @@
 # Charles S. Hamlin Papers: LOC transcription drafts
 
-This is the fixed **Batch 001** release. It pairs exactly **600
+This is the fixed **Batch 001** release. It pairs exactly **690
 reduced-resolution public-domain LOC scans** with CHURRO-generated transcription drafts. Each image and transcript
 has stable provenance, a direct LOC page link, and SHA-256 hashes in
 [`manifest.jsonl`](manifest.jsonl).
-
-The release contains the first 600 completed Charles S. Hamlin pages in the
-production queue, from `mss246610003_page_0001` through
-`mss246610015_page_0041`. Pages completed after that boundary are deliberately
-excluded and belong in Batch 002. See [`BATCH_TRACKING.md`](BATCH_TRACKING.md).
 
 ## Important status
 
@@ -35,10 +30,7 @@ The drafts follow the text conventions in the [LOC By the People transcription
 guide](https://crowd.loc.gov/get-started/how-to-transcribe/) where those conventions can be applied automatically.
 Image-dependent decisions remain explicitly assigned to human review.
 
-Of the 600 drafts, 599 passed the automatic text-format checks. One draft,
-`mss246610005_page_0098`, contains possible explicit omission language and is
-prominently flagged in the manifest. All 600 pages still require visual human
-review.
+All pages still require visual human review.
 
 ## Attribution
 
