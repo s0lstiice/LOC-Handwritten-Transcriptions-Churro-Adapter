@@ -1,6 +1,6 @@
 # Charles S. Hamlin transcription drafts — Batch 002
 
-This GitHub-transfer package pairs **510 Library of Congress page images**
+This GitHub-transfer package pairs **641 Library of Congress page images**
 with machine-generated transcription drafts from **CHURRO Version5**. It excludes
 every page ID already present in Batch 001.
 
