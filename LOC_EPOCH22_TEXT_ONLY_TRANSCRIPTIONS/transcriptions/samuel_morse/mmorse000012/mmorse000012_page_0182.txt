@@ -1,0 +1,5 @@
+Plan of Dictionary for Telegraph.
+1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 J 11 K 12 L 13 M 14 N 15 O 16 P 17 Q 18 R 19 S 20 T 21 U 22 V 23 W 24 X 25 Y 26 Z
+27 Abast 28 Abandon 29 — ed 30 — ing 31 — ment 32 Abase 33 — ed 34 — ing 35 — ment 36 Abash 37 — ed 38 — ing 39 Abate 40 — ed 41 — ing 42 — ment 43 Abbey 44 Abbess 45 Abbey 46 Abbot 47 Abbreviate 48 — ed 49 — ing 50 — tion
+50 100 150 200 250
+98434

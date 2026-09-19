@@ -1,0 +1,15 @@
+1866
+On August 21st 1844 Wednesday tried experiments on Canal, as follows
+Remarks.
+The result of these experiments shows that electricity
+crosses the river by this arrangement, and in quantity in
+proportion to the size of the copper plates at the extremities of the Conductors. The number of cups of the battery
+also influences the quantity but not to so great a degree.
+The Battery was on one side of the river & the Galvanometer on the other. — Distance of the plates from each
+other on the same side also affects the result.
+1st 2nd 3rd 4th 5th 6th
+No. of the Experiment 14 14 14 7 7 7
+No. of cups in the battery 400 400 400 400 300 200
+Length of the Conductors 32 32 32 15 15 15 15 15 15
+Motion of the Galvanometer 5 6 2 1/2 16 4 13 2 1/2 6 6 2 1/2 5 4 2 1/2 5 6 2 1/2 5 6 2 1/2
+Size of the Plates of Copper 5 6 2 1/2 16 4 13 2 1/2 6 6 2 2

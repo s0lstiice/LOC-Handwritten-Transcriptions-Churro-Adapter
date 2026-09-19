@@ -1,0 +1,68 @@
+taet be made to accomplish the same end, and the closing and breaking of the circuit may
+be effected by applying the hand or any other machinery to the signal lever, or by any
+other mode adapted to the same end. The closing of the circuit by the depression of the
+signal lever, causes the electric current to run upon the circuit a, a, Ex. 11, Fig. 2, and
+through the helices of the Electro-Magnet C, which is thus charged with power to move
+any machinery which may be connected with it in a proper manner.
+The second part of my invention, consists of a Register for Recording the characters,
+signs or letters transmitted from any distance, and is composed of the following parts in
+combination, viz: a bent lever A, as shown most distinctly in example 10, Fig. 4. To
+one arm of this lever there is attached one or more pencils, fountain pins, or other suit-
+able marking instruments, B, directly under which is placed a suitable cylinder, D, over
+which the paper passes on which the marking for signs are made.
+This cylinder turns on its axis, and is connected by a train of wheels and pinions with
+a barrel m, Fig. 3, example 10, of common construction which is driven by a weight and
+cord wound thereon, and also with a fly K of same Fig. which regulates its motion. To
+the other arm of the lever (which is also an armature) is affixed a spiral spring i, as seen
+in Example 10, Figs. 1 and 4.
+Near the cylinder D, a reel or spool, d, is placed, on which a strip of paper or other
+markable material is wound, the end of which is carried over the cylinder D, and is confined
+thereon by means of two tapes and endless bands or their equivalents, one at each edge
+which pass around two pulleys b, b, one on each side of cylinder D. This is clearly
+represented in Figures 2 and 4, Example 10. The clock work is kept at rest by a detent
+g, in contact with the fly wheel k, in Fig. 3, and connected with the lever as shown in
+Figure 5.
+To the Register may be attached an alarm bell as shown in Example 10, Fig. 5, the
+machinery for striking which may be variously modified and therefore need not to be
+described.
+The Register, or second part of my Invention, is operated upon by the first part, in the
+following manner, viz: the short end of the pen lever in the second part as seen in example
+10, Fig. 4, is an armature f, which is brought in proximity to the Electro-Magnet C, in
+the circuit a, a, as shown in Example 11, Fig. 2, and in Example 10, Fig. 4. The Electro-
+Magnet C, being charged by closing the circuit, attracts the armature, bringing it nearly
+in contact, thus imparting a movement to the lever A. By this movement of the lever,
+the detent, Fig. 5, Example 10, is removed from the fly wheel, and the clock work begins
+to move, carrying the paper over the cylinder D, and at the same time the fountain pen,
+pencil, or other marking instrument is, by the action of the lever, set in motion.
+The circuit being broken, the lever is brought back to its position by the spiral spring
+i, and by the closing and breaking of the circuit, more or less rapidly, dots and spaces and
+marks of any required length are made upon the paper and in any required combinations.
+My system of characters consists of dots, spaces and lines, variously combined, to form
+letters and other characters, a specimen of which is represented in Examples 1, 2, and 3.
+To make a dot, a notch or indentation is required in the types, into which the cog or
+tooth on the "signal lever" will fall and instantly rise from, as the types move onward and
+when a line is to be formed on the paper at the Register as a sign, the notch in the type is
+extended, so that the lever will remain down for a space of time, sufficient to make the
+line required.
+The alarm bell shown at A, Example 10, Fig. 5, may be struck by means of a ham-
+mer, actuated by a supplementary Electro-Magnet placed in the same circuit as that first
+named. Any convenient number of Registers and Registering stations, may be connected
+with the same circuit, all constructed and operating as above described.
+To extend more effectually the communication by my apparatus, I adopt the following
+arrangement, whereby I can use any number of additional batteries or generators of Elec-
+tricity, and by which I can connect progressively any number of consecutive circuits,
+viz: I place at any point in the first circuit an Electro-Magnet, and opposite its poles I
+place an armature on a lever, like that described for Registering, but instead of using the
+said lever to mark with, I use it to close and break a second circuit, precisely as the
+signal lever is used to close and break the first circuit.
+The second circuit has an independent battery, and may be used to work a Register
+or other apparatus for Registering, or to close and break a third circuit or both, and thus
+by a combination of circuits the requisite power can be obtained at any distances, ad-infi-
+num. This combination is shown in Example 11, Fig. 1.
+It will be observed that my vocabulary system of signs or secret writing by cypher
+can be conveniently used in communicating by this Telegraph, and any mode of closing
+and breaking a circuit may be adopted, the object being to do so at proper intervals.
+CLAIMS.
+First. Having thus fully described my Invention, I wish it to be understood that I
+do not claim the use of the Galvanic current or currents of Electricity, for the purpose of
+Telegraphic communications generally, but what I specially claim as my Invention and

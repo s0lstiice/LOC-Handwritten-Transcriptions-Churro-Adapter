@@ -1,0 +1,69 @@
+TO ALL TO WHOM THESE PRESENTS SHALL COME:
+BE IT KNOWN, that I, Samuel F. B. Morse, now of Poughkeepsie, in the county of
+Dutchess, in the State of New York, have invented a new and useful apparatus for, and
+a system of transmitting intelligence between distant points, by means of Electro-Mag-
+netism, which puts in motion machinery for producing sounds or signs, and recording
+signs upon paper or other suitable material, which invention I denominate the Ame-
+rican Electro-Magnetic Telegraph, and that the following is a full, clear and exact de-
+scription of the principle or character thereof, which distinguishes it from all other Tele-
+graphs previously known, and of the manner of making and constructing said apparatus
+and applying said system, reference being had to the accompanying drawings, making
+part of this specification in which Examples 1, 2, and 3, show my system of signs consisting
+of a combination of dots and spaces, and of dots, spaces and horizontal lines intended to
+represent—Example 1, signs for numbers; Example 2, signs for compound numbers; Example
+3, signs for letters; all which signs may also represent words or sentences. Examples 4,
+5 and 6, are specimens of the form of type used for regulating the imprinting of the signs.
+Example 7, is the type rule; Example 8, apparatus for connecting and breaking the
+Electrical or Galvanic circuit. Example 10, Fig. 1, is a perspective view of the regis-
+tering apparatus, Fig. 2, a top plan, Fig. 3, a side elevation of the train of wheels moving
+the paper and regulating its motion, Fig. 4, a sectional elevation of the Registering lever
+and parts appended thereto, Fig. 5, alarm apparatus. Example 11, is a diagram, show-
+ing the relative positions of the different parts of an approved form of apparatus, including
+a combination of circuits.
+Prior to my first application for a patent, it had been essayed to use the currents of
+Electricity or Galvanism for Telegraphic purposes, either by decomposition or the action
+or exercise of the deflective force of a current upon a magnetized bar or needle, which de-
+composition or deflection required to be noted by ocular inspection at the instant the sign
+was made.
+By my invention the intelligence can be transmitted, and imprinted on paper or other
+suitable substance, without requiring the aid of any person at the station to which the
+communication is transmitted, so as to be read at any time thereafter.
+My apparatus for this purpose consists of two principal parts or combinations.
+The first part consists of a Galvanic Battery, or any known generator of Galvanism or
+Electricity, a Galvanic or Electric circuit, composed of any known conductors of Electricity,
+a port rule and signal lever or other contrivance for closing and breaking the circuit, all in
+combination with an Electro-Magnet, or device by which the motive power of the Electric or
+Galvanic current, which I call Electro-Magnetism, may be developed and applied to give
+motion to other machinery for the purpose of marking or imprinting intelligible characters,
+signs or letters at any distances; the conductors may be suspended in the air upon posts
+or otherwise, or buried in the ground, being always well insulated at the posts or in the
+ground. This combination is illustrated in the annexed drawings in Example 11, Fig. 2,
+where D indicates the battery; a, a, the circuit; B, the signal lever; and
+C the Electro-Magnet.
+The new parts and the operation of this portion of my apparatus, I thus further
+describe, viz: at any convenient point in the circuit, (generally near the generator) a
+break is made in the conductor, and the two ends thereof are immersed in mercury cups
+as shown in the drawings at E, E, Fig. 1, example S. To connect the circuit, I employ
+an inverted V formed piece of metal or other proper connector A, suspended over the
+mercury cups E, E, in the end of a horizontal lever denominated in said drawing the “signal
+lever,” whose fulcrum is at a, so that when the connector A is dipt into the cups, the cir-
+cuit is completed. Between the fulcrum and connector A, there is affixed to the under
+side of the lever and projecting downward a triangular tooth b, which bears on the upper
+surface of the types about to be described, and is raised or lowered by them.
+The lever may be counter-balanced by a weight or its equivalent as at C, to make it
+move easily. The types are composed of flat straight strips of metal, as shown in exam-
+pies 4 and 5, of the drawings herunto annexed, having their upper edges indented to suit
+the character to be represented, and which will be hereinafter more fully set forth in the
+description of the operation of the machine. The indentations are made of sufficient
+depth to allow the connector A to be plunged into the mercury cups, and the highest sur-
+face raises it from them. It is obvious that the forms of the upper surface of the types
+may be reversed, and the cog b placed on the other side of the fulcrum, and the same
+effect would be produced. The types are set up and confined in a Rule to form any re-
+quired sentences in one long line. This rule, denominated in the drawings, Example 8,
+“Type Rule,” has on its under side a rack that gears into a pinion x, on a shaft under the
+grooved railings D, of common construction, on which said rule slides, and is directed
+under the cog b, on the lever; the types are advanced at a regular speed by the applica-
+tion of any convenient power to the pinion x, and bring the notches, or raised and de-
+pressed parts successively under the cog b.
+The mercury cups may be dispensed with, and any other convenient metallic con-
+98760

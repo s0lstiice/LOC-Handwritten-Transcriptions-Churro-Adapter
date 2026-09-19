@@ -1,0 +1,14 @@
+Fig. 8.
+Diagram of a telegraph system with two separate loops, one labeled 'A' and the other 'B', connected to a central switch mechanism. The diagram also shows a 'Signal Lever' and 'Armature Lever'.
+98765
+Signal Lever
+Armature Lever
+Armature
+Electro magnet
+Dialley
+Signal Lever
+Example of
+signal lever
+signal lever
+signal lever
+signal lever

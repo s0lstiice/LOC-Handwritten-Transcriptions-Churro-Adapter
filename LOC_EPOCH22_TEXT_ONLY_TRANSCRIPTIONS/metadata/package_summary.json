@@ -1,0 +1,16 @@
+{
+  "schema_version": "loc_epoch22_transcription_drafts_github.v1",
+  "pages": 6477,
+  "collections": 4,
+  "items": 44,
+  "by_collection": {
+    "Anna Maria Brodeau Thornton Papers": 423,
+    "Charles S. Hamlin Papers": 1463,
+    "Margaret Bayard Smith Papers": 1330,
+    "Samuel F. B. Morse Papers": 3261
+  },
+  "images_included": false,
+  "human_review_required": 6477,
+  "hamlin_reread_outputs_included": false,
+  "source_manifest": "completed local half of the two-host cutoff-through-Hamlin run"
+}

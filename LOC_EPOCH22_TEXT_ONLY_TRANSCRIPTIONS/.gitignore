@@ -1,0 +1,3 @@
+.progress_tasks/
+__pycache__/
+*.tmp

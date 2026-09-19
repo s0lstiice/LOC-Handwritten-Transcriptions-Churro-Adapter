@@ -1,0 +1,38 @@
+1. The Batteries & Circuits required for the operation
+of the Register & Correspondent are thus arranged.
+First plan.
+In Plate IV Fig. 1. A B. is the main battery of any con-
+vient number of guns. A portion of the battery B is
+separated from A to be connected or disconnected as circum-
+stances may require, so as to form one larger or two smaller
+Batteries, by means of a Basculle D which is made to con-
+nect the long circuit, either at E or F by a magnet C
+with from each other with a small battery F, by connecting
+with each other with the Conductor Plate E.
+When the Cross of the Basculle touches F, the portion of the
+battery A is thrown out of the circuit, and the portion B
+alone acts, when it touches E the whole battery is brought
+in action. The Cross of the Basculle is so contrived that
+in passing from F to E or E to F there is an instant when
+it touches both E and F and consequently there is a momentary
+short circuit in the direction of the arrow G. to the other
+pole of battery A. If opposed to the current from the
+battery B which is in the direction of arrow H. It should
+this prove on experiment to be destructive of the current
+from battery B, then recourse must be had to Plan 2.
+which will presently be described. — The
+Basculle is placed between the Register & Correspondent
+The Operation of the Parts together.
+If when the Styles a. Plate III. stands at A any other
+should be pressed down, the Defect b. is also depressed and
+releases the Styles which then passes through the Machinery below
+which also carries the Circuit wheel D. which is broken, and closes
+the circuit of the battery B between each intermediate
+letter L and K. The Styles touches the depressed key, bringing a current
+of the battery B through terminals P to Q, the Shaft of the Styles, to the
+key through the battery C, and through the metallic frame to V. Through magnet
+E in the direction of the arrows to the other pole of the battery T. this
+brings magnet C into action, attracts Basculle D, changing connection
+from E to F and joining Batteries A & B in one Battery, and
+sending a wire
+100341
