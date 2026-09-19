@@ -18,7 +18,7 @@ The page images are not duplicated here. `index.csv` and `manifest.jsonl` provid
 ## Layout
 
 - `../LOC_ANNA_MARIA_BRODEAU_THORNTON_TRANSCRIPTIONS/<item>/<page>.txt`: Thornton drafts.
-- `../LOC_CHARLES_HAMLIN_EPOCH22_TEXT_ONLY_TRANSCRIPTIONS/<item>/<page>.txt`: Hamlin drafts.
+- `../LOC_CHARLES_HAMLIN_TRANSCRIPTIONS/<item>/<page>.txt`: Hamlin drafts.
 - `../LOC_MARGARET_BAYARD_SMITH_TRANSCRIPTIONS/<item>/<page>.txt`: Smith drafts.
 - `../LOC_SAMUEL_F_B_MORSE_TRANSCRIPTIONS/<item>/<page>.txt`: Morse drafts.
 - `index.csv`: spreadsheet-friendly page inventory.

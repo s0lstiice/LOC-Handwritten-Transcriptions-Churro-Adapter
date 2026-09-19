@@ -1,9 +1,0 @@
-to discuss of health conditions of Mr. Clephane as to treatment needed
-to be provided for Mr. Clephane in the National Hospital for Incurables
-33.321,31,30
-to discuss a plan for Mr. Clephane's health and to provide for his family
-33.321,31,30
-to discuss Mr. Clephane's health and to provide for his family
-33.321,31,31
-to discuss Mr. Clephane's health and to provide for his family
-33,321
