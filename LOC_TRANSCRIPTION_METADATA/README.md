@@ -23,6 +23,7 @@ The page images are stored beside their matching text drafts. `index.csv` and `m
 - `../LOC_SAMUEL_F_B_MORSE_TRANSCRIPTIONS/<item>/<page>.{jpg,txt}`: Morse pairs.
 - `index.csv`: spreadsheet-friendly page inventory.
 - `manifest.jsonl`: compact machine-readable provenance.
+- `search_index.json`: ordered transcript text used for lazy full-text portal search.
 - `package_summary.json`: package counts and scope.
 
 ## Generation

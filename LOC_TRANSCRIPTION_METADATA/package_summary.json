@@ -14,5 +14,8 @@
   "hamlin_reread_outputs_included": false,
   "source_manifest": "completed local half of the two-host cutoff-through-Hamlin run",
   "image_files": 6477,
-  "image_bytes": 880776780
+  "image_bytes": 880776780,
+  "portal_full_text_search": true,
+  "search_index_rows": 6477,
+  "search_index_bytes": 7932464
 }

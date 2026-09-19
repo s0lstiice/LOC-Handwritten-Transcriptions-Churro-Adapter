@@ -4,9 +4,9 @@ This repository contains **6,477 original page scans paired with 6,477 machine-g
 
 ## Side-by-side comparison portal
 
-[Open the side-by-side comparison portal](https://s0lstiice.github.io/LOC-Handwritten-Transcriptions-Churro-Adapter/) to browse every scan beside its draft transcription. The portal supports collection filtering, page/item/title search, keyboard navigation, image zoom, permanent page links, transcript copy/download, and links back to the Library of Congress source records.
+[Open the side-by-side comparison portal](https://s0lstiice.github.io/LOC-Handwritten-Transcriptions-Churro-Adapter/) to browse every scan beside its draft transcription. The portal includes a scrollable page browser, collection and item filters, full-text transcript search, keyboard navigation, image zoom, permanent page links, transcript copy/download, and links back to the Library of Congress source records.
 
-The portal is implemented by [`index.html`](index.html) and reads the shared metadata directly. It prefers the scan stored in this repository and falls back to the Library of Congress IIIF image when necessary.
+The portal is implemented by [`index.html`](index.html) and [`portal.js`](portal.js), reads the shared metadata directly, and loads the 6,477-page transcript search index only when a search is requested. It prefers the scan stored in this repository and falls back to the Library of Congress IIIF image when necessary.
 
 ## Collections
 
