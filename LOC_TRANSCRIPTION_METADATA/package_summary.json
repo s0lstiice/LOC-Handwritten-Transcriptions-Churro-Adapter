@@ -9,8 +9,10 @@
     "Margaret Bayard Smith Papers": 1330,
     "Samuel F. B. Morse Papers": 3261
   },
-  "images_included": false,
+  "images_included": true,
   "human_review_required": 6477,
   "hamlin_reread_outputs_included": false,
-  "source_manifest": "completed local half of the two-host cutoff-through-Hamlin run"
+  "source_manifest": "completed local half of the two-host cutoff-through-Hamlin run",
+  "image_files": 6477,
+  "image_bytes": 880776780
 }

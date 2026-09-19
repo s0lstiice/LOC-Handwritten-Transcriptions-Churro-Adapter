@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Side-by-side viewer for 6,477 Library of Congress manuscript scans and machine transcription drafts.">
+  <title>LOC Handwriting Comparison Desk</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #10120f;
+      --panel: #181b17;
+      --panel-2: #22261f;
+      --line: #3b4136;
+      --ink: #f1ece1;
+      --muted: #aca79c;
+      --gold: #d5a653;
+      --danger: #ef9a87;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body { margin: 0; overflow: hidden; background: var(--bg); color: var(--ink); font: 14px/1.45 system-ui, sans-serif; }
+    button, input, select { min-height: 38px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel-2); color: var(--ink); font: inherit; }
+    button { padding: 0 13px; cursor: pointer; }
+    button:hover, button:focus-visible, input:focus-visible, select:focus-visible { border-color: var(--gold); outline: none; }
+    button:disabled { cursor: default; opacity: .35; }
+    input, select { padding: 0 11px; }
+    a { color: var(--gold); }
+    .app { height: 100%; display: grid; grid-template-rows: auto auto 1fr auto; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 12px 18px; border-bottom: 1px solid var(--line); background: #141613; }
+    .brand h1 { margin: 0; font: 600 21px/1.15 Georgia, serif; }
+    .brand p { margin: 4px 0 0; color: var(--muted); font-size: 12px; }
+    .tools { display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: 8px; }
+    #search { width: min(330px, 42vw); }
+    .status { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 43px; padding: 8px 18px; border-bottom: 1px solid var(--line); background: var(--panel); }
+    #identity { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+    #count { flex: none; color: var(--muted); font-variant-numeric: tabular-nums; }
+    .workspace { min-height: 0; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(360px, .75fr); }
+    .pane { min-width: 0; min-height: 0; display: grid; grid-template-rows: auto 1fr; }
+    .image-pane { border-right: 1px solid var(--line); background: #080908; }
+    .pane-head { min-height: 44px; display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 7px 12px; border-bottom: 1px solid var(--line); background: #171916; }
+    .pane-head strong { letter-spacing: .02em; }
+    .zoom { display: flex; gap: 6px; align-items: center; }
+    .zoom button { min-height: 30px; min-width: 34px; padding: 0 9px; }
+    #zoomLabel { width: 48px; text-align: center; color: var(--muted); font-variant-numeric: tabular-nums; }
+    #imageStage { overflow: auto; display: flex; align-items: flex-start; justify-content: center; padding: 18px; }
+    #scan { display: block; max-width: none; transform-origin: top center; background: #d8d1c2; box-shadow: 0 10px 38px #000b; }
+    .text-pane { grid-template-rows: auto 1fr auto; background: var(--panel); }
+    #transcript { margin: 0; overflow: auto; padding: 24px 28px 38px; white-space: pre-wrap; overflow-wrap: anywhere; font: 16px/1.7 Georgia, serif; user-select: text; }
+    .details { display: grid; gap: 4px; padding: 10px 14px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
+    .warning { color: var(--danger); }
+    footer { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 14px; min-height: 58px; padding: 9px 18px; border-top: 1px solid var(--line); background: #141613; }
+    .nav { display: flex; gap: 8px; }
+    #slider { width: 100%; accent-color: var(--gold); }
+    #position { text-align: center; color: var(--muted); font-variant-numeric: tabular-nums; }
+    #loading { position: fixed; inset: 0; z-index: 10; display: grid; place-items: center; background: #10120fee; color: var(--ink); }
+    kbd { border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 1px 5px; color: var(--muted); background: var(--panel-2); }
+    @media (max-width: 850px) {
+      body { overflow: auto; }
+      .app { height: auto; min-height: 100%; grid-template-rows: auto auto auto auto; }
+      header { align-items: flex-start; flex-direction: column; }
+      .tools { width: 100%; justify-content: flex-start; }
+      #search { width: 100%; }
+      .workspace { grid-template-columns: 1fr; grid-template-rows: 58vh auto; }
+      .image-pane { border-right: 0; border-bottom: 1px solid var(--line); }
+      #transcript { min-height: 45vh; }
+      footer { position: sticky; bottom: 0; }
+      footer > :last-child { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div id="loading">Loading the 6,477-page comparison desk…</div>
+  <main class="app">
+    <header>
+      <div class="brand">
+        <h1>LOC Handwriting Comparison Desk</h1>
+        <p>Original scan beside machine transcription draft · human review required</p>
+      </div>
+      <div class="tools">
+        <select id="collection" aria-label="Collection"><option value="">All collections</option></select>
+        <input id="search" type="search" placeholder="Search page ID, item, or title" aria-label="Search pages">
+        <button id="copy" type="button">Copy text</button>
+        <button id="download" type="button">Download .txt</button>
+      </div>
+    </header>
+    <section class="status">
+      <div id="identity">Loading metadata…</div>
+      <div id="count"></div>
+    </section>
+    <section class="workspace">
+      <section class="pane image-pane">
+        <div class="pane-head">
+          <strong>Original scan</strong>
+          <div class="zoom">
+            <button id="zoomOut" type="button" aria-label="Zoom out">−</button>
+            <span id="zoomLabel">Fit</span>
+            <button id="zoomIn" type="button" aria-label="Zoom in">+</button>
+            <button id="fit" type="button">Fit</button>
+          </div>
+        </div>
+        <div id="imageStage"><img id="scan" alt="Selected Library of Congress manuscript page"></div>
+      </section>
+      <section class="pane text-pane">
+        <div class="pane-head"><strong>Machine transcription draft</strong><span id="characters"></span></div>
+        <pre id="transcript"></pre>
+        <div id="details" class="details"></div>
+      </section>
+    </section>
+    <footer>
+      <div class="nav"><button id="previous" type="button">← Previous</button><button id="next" type="button">Next →</button></div>
+      <div><input id="slider" type="range" min="0" max="0" value="0"><div id="position">0 of 0</div></div>
+      <div><kbd>←</kbd> <kbd>→</kbd> navigate</div>
+    </footer>
+  </main>
+  <script>
+    const $ = selector => document.querySelector(selector);
+    const state = { all: [], filtered: [], current: null, position: 0, zoom: 1, request: 0, searchTimer: null };
+    const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+    const repositoryBase = new URL('./', location.href);
+
+    async function loadManifest() {
+      const response = await fetch('LOC_TRANSCRIPTION_METADATA/manifest.jsonl');
+      if (!response.ok) throw new Error(`Metadata request failed (${response.status})`);
+      const body = await response.text();
+      state.all = body.trim().split(/\r?\n/).filter(Boolean).map(JSON.parse);
+      const collections = [...new Set(state.all.map(row => row.collection))].sort();
+      for (const name of collections) $('#collection').add(new Option(name, name));
+      applyFilters(false);
+      const requested = new URLSearchParams(location.search).get('page');
+      if (requested) {
+        const index = state.filtered.findIndex(row => row.page_id === requested);
+        if (index >= 0) state.position = index;
+      }
+      await show(state.position);
+    }
+
+    function searchable(row) {
+      return [row.page_id, row.item_id, row.title, row.collection].join('\n').toLocaleLowerCase();
+    }
+
+    async function applyFilters(render = true) {
+      const collection = $('#collection').value;
+      const query = $('#search').value.trim().toLocaleLowerCase();
+      state.filtered = state.all.filter(row => (!collection || row.collection === collection) && (!query || searchable(row).includes(query)));
+      state.position = Math.min(state.position, Math.max(0, state.filtered.length - 1));
+      $('#slider').max = Math.max(0, state.filtered.length - 1);
+      if (render) await show(state.position);
+    }
+
+    async function show(position) {
+      if (!state.filtered.length) return showEmpty();
+      state.position = Math.max(0, Math.min(position, state.filtered.length - 1));
+      const row = state.filtered[state.position];
+      const request = ++state.request;
+      const transcriptResponse = await fetch(row.transcript);
+      const transcript = transcriptResponse.ok ? await transcriptResponse.text() : '[Transcript file unavailable]';
+      if (request !== state.request) return;
+      state.current = { row, transcript };
+      $('#identity').textContent = `${row.page_id} · ${row.title}`;
+      $('#count').textContent = `${state.all.length.toLocaleString()} total pages`;
+      $('#transcript').textContent = transcript || '[No visible transcription]';
+      $('#characters').textContent = `${transcript.length.toLocaleString()} characters`;
+      $('#position').textContent = `${(state.position + 1).toLocaleString()} of ${state.filtered.length.toLocaleString()}`;
+      $('#slider').value = state.position;
+      $('#previous').disabled = state.position === 0;
+      $('#next').disabled = state.position === state.filtered.length - 1;
+      const permanent = `${location.pathname}?page=${encodeURIComponent(row.page_id)}`;
+      history.replaceState(null, '', permanent);
+      $('#details').innerHTML = [
+        `<span>${escapeHtml(row.collection)} · Item ${escapeHtml(row.item_id)} · Page ${escapeHtml(row.page_number)}</span>`,
+        '<span class="warning">Unreviewed OCR draft—not an official LOC transcription or verified ground truth.</span>',
+        `<span><a href="${escapeHtml(row.loc_url)}" target="_blank" rel="noreferrer">Open page at the Library of Congress ↗</a> · <a href="${escapeHtml(row.item_url)}" target="_blank" rel="noreferrer">Open item record ↗</a> · <a href="${escapeHtml(row.image_url)}" target="_blank" rel="noreferrer">Open LOC image ↗</a></span>`
+      ].join('');
+      const scan = $('#scan');
+      scan.onerror = () => {
+        if (scan.src !== row.image_url) scan.src = row.image_url;
+      };
+      scan.onload = fitImage;
+      scan.src = new URL(row.image, repositoryBase).href;
+      $('#download').onclick = () => {
+        const anchor = document.createElement('a');
+        anchor.href = row.transcript;
+        anchor.download = `${row.page_id}.txt`;
+        anchor.click();
+      };
+      $('#loading').style.display = 'none';
+    }
+
+    function showEmpty() {
+      state.current = null;
+      $('#identity').textContent = 'No pages match these filters';
+      $('#count').textContent = `${state.all.length.toLocaleString()} total pages`;
+      $('#scan').removeAttribute('src');
+      $('#transcript').textContent = 'Try another collection or search term.';
+      $('#characters').textContent = '';
+      $('#details').innerHTML = '';
+      $('#position').textContent = '0 of 0';
+      $('#loading').style.display = 'none';
+    }
+
+    function setZoom(value, isFit = false) {
+      state.zoom = Math.max(.1, Math.min(4, value));
+      $('#scan').style.width = `${$('#scan').naturalWidth * state.zoom}px`;
+      $('#scan').style.height = 'auto';
+      $('#zoomLabel').textContent = isFit ? 'Fit' : `${Math.round(state.zoom * 100)}%`;
+    }
+
+    function fitImage() {
+      const image = $('#scan');
+      const stage = $('#imageStage');
+      if (!image.naturalWidth || !image.naturalHeight) return;
+      setZoom(Math.min((stage.clientWidth - 36) / image.naturalWidth, (stage.clientHeight - 36) / image.naturalHeight), true);
+    }
+
+    $('#collection').addEventListener('change', () => { state.position = 0; applyFilters(); });
+    $('#search').addEventListener('input', () => {
+      clearTimeout(state.searchTimer);
+      state.searchTimer = setTimeout(() => { state.position = 0; applyFilters(); }, 180);
+    });
+    $('#previous').addEventListener('click', () => show(state.position - 1));
+    $('#next').addEventListener('click', () => show(state.position + 1));
+    $('#slider').addEventListener('input', event => show(Number(event.target.value)));
+    $('#zoomIn').addEventListener('click', () => setZoom(state.zoom * 1.2));
+    $('#zoomOut').addEventListener('click', () => setZoom(state.zoom / 1.2));
+    $('#fit').addEventListener('click', fitImage);
+    $('#copy').addEventListener('click', async () => {
+      if (!state.current) return;
+      await navigator.clipboard.writeText(state.current.transcript);
+      const button = $('#copy');
+      button.textContent = 'Copied';
+      setTimeout(() => button.textContent = 'Copy text', 900);
+    });
+    document.addEventListener('keydown', event => {
+      if (event.target.matches('input, select')) return;
+      if (event.key === 'ArrowLeft') show(state.position - 1);
+      if (event.key === 'ArrowRight') show(state.position + 1);
+    });
+    window.addEventListener('resize', () => state.current && fitImage());
+
+    loadManifest().catch(error => {
+      $('#loading').textContent = `Unable to open comparison desk: ${error.message}`;
+    });
+  </script>
+</body>
+</html>
