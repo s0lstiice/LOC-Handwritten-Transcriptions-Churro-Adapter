@@ -27,4 +27,4 @@ The page images are not duplicated here. `index.csv` and `manifest.jsonl` provid
 
 ## Generation
 
-The drafts were produced by `stanford-oval/churro-3B` with the local `churro_visual_grounding_expanded_v2/checkpoint-epoch-22` adapter using the `grounded-faithful` decoding profile. Original spelling, punctuation, abbreviations, and physical line breaks are retained where the OCR recovered them.
+The drafts were produced by `stanford-oval/churro-3B` with the local `churro_visual_grounding_expanded_v2` adapter using the `grounded-faithful` decoding profile. Original spelling, punctuation, abbreviations, and physical line breaks are retained where the OCR recovered them.
