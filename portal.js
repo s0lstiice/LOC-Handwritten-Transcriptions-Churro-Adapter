@@ -21,6 +21,7 @@
     '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;',
   }[character]));
   const normalize = value => String(value ?? '').normalize('NFKD').toLocaleLowerCase();
+  const portalId = row => row.portal_id || row.page_id;
 
   async function loadManifest() {
     const response = await fetch('LOC_TRANSCRIPTION_METADATA/manifest.jsonl');
@@ -36,7 +37,7 @@
     await applyFilters(false);
     const requested = new URLSearchParams(location.search).get('page');
     if (requested) {
-      const index = state.filtered.findIndex(row => row.page_id === requested);
+      const index = state.filtered.findIndex(row => portalId(row) === requested || row.page_id === requested);
       if (index >= 0) state.position = index;
     }
     renderPageList();
@@ -96,7 +97,7 @@
     if (terms.length) await ensureSearchIndex();
     if (run !== state.filterRun) return;
 
-    const currentId = state.current?.row.page_id;
+    const currentId = state.current ? portalId(state.current.row) : null;
     state.filtered = state.all.filter(row => {
       if (collection && row.collection !== collection) return false;
       if (item && row.item_id !== item) return false;
@@ -104,7 +105,7 @@
       const haystack = `${metadataText(row)}\n${normalize(state.searchTexts[row._index])}`;
       return terms.every(term => haystack.includes(term));
     });
-    const retained = currentId ? state.filtered.findIndex(row => row.page_id === currentId) : -1;
+    const retained = currentId ? state.filtered.findIndex(row => portalId(row) === currentId) : -1;
     state.position = retained >= 0 ? retained : 0;
     state.renderLimit = BATCH_SIZE;
     $('#slider').max = Math.max(0, state.filtered.length - 1);
@@ -179,7 +180,7 @@
     $('#slider').value = state.position;
     $('#previous').disabled = state.position === 0;
     $('#next').disabled = state.position === state.filtered.length - 1;
-    history.replaceState(null, '', `${location.pathname}?page=${encodeURIComponent(row.page_id)}`);
+    history.replaceState(null, '', `${location.pathname}?page=${encodeURIComponent(portalId(row))}`);
     $('#details').innerHTML = [
       `<span>${escapeHtml(row.collection)} · Item ${escapeHtml(row.item_id)} · Page ${escapeHtml(row.page_number)}</span>`,
       '<span class="warning">Unreviewed OCR draft—not an official LOC transcription or verified ground truth.</span>',

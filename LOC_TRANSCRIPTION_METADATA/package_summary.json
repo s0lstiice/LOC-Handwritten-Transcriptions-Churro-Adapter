@@ -1,21 +1,24 @@
 {
   "schema_version": "loc_transcription_drafts_github.v1",
-  "pages": 6477,
-  "collections": 4,
-  "items": 44,
+  "pages": 6589,
+  "collections": 5,
+  "items": 63,
   "by_collection": {
     "Anna Maria Brodeau Thornton Papers": 423,
     "Charles S. Hamlin Papers": 1463,
     "Margaret Bayard Smith Papers": 1330,
-    "Samuel F. B. Morse Papers": 3261
+    "Samuel F. B. Morse Papers": 3261,
+    "Charles S. Hamlin Papers — Contextualized Corrections": 112
   },
   "images_included": true,
-  "human_review_required": 6477,
+  "human_review_required": 6589,
   "hamlin_reread_outputs_included": false,
   "source_manifest": "completed local half of the two-host cutoff-through-Hamlin run",
-  "image_files": 6477,
-  "image_bytes": 880776780,
+  "image_files": 6589,
+  "image_bytes": 903759264,
   "portal_full_text_search": true,
-  "search_index_rows": 6477,
-  "search_index_bytes": 7932464
+  "search_index_rows": 6589,
+  "search_index_bytes": 8159384,
+  "hamlin_contextualized_correction_pages": 112,
+  "hamlin_contextualized_corrections": 228
 }
