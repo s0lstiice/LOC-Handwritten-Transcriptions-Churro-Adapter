@@ -24,7 +24,7 @@
   const portalId = row => row.portal_id || row.page_id;
 
   async function loadManifest() {
-    const response = await fetch('LOC_TRANSCRIPTION_METADATA/manifest.jsonl');
+    const response = await fetch('LOC_TRANSCRIPTION_METADATA/manifest.jsonl', { cache: 'no-store' });
     if (!response.ok) throw new Error(`Metadata request failed (${response.status})`);
     const body = await response.text();
     state.all = body.trim().split(/\r?\n/).filter(Boolean).map((line, index) => ({
@@ -48,7 +48,7 @@
     if (state.searchTexts) return state.searchTexts;
     if (!state.searchPromise) {
       $('#count').textContent = 'Loading full-text index…';
-      state.searchPromise = fetch('LOC_TRANSCRIPTION_METADATA/search_index.json')
+      state.searchPromise = fetch('LOC_TRANSCRIPTION_METADATA/search_index.json', { cache: 'no-store' })
         .then(response => {
           if (!response.ok) throw new Error(`Search index request failed (${response.status})`);
           return response.json();
