@@ -1,0 +1,28 @@
+8
+INDEX OF INDUSTRIAL PRODUCTION
+ADJUSTED FOR SEASONAL VARIATION, 1923-25 AVERAGE FOR TOTAL = 100
+POINTS IN TOTAL INDEX 100
+100
+90
+80
+70
+60
+50
+100
+[Points in Total Index 100]
+90
+80 [Points in Total Index 100]
+70
+70 [Points in Total Index 100]
+60
+60 [Points in Total Index 100]
+50
+50 [Points in Total Index 100]
+100
+Total Industrial Production
+100
+90
+80
+70
+60
+Line graph showing index of industrial production for Total, Iron and Steel, Automobiles, Other Durable Manufactures, Other Nondurable Manufactures, Textiles, Meat Packing, and Minerals from 1932 to 1935.

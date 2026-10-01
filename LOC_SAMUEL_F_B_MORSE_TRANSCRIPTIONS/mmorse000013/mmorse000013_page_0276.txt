@@ -1,0 +1,32 @@
+1. Have you any reason to think that magnetism can not be
+induced in Soft iron at the distance of 100 miles or more
+by a single impulse, or from a single battery apparatus? No
+2. Suppose that a horseshoe magnet of Soft iron of a
+given size, receive its maximum of magnetism, by a given
+number of coils around it of wire or ribbon, and by a given
+sized battery or number of batteries, at a given distance
+from the battery, does a succession of magnets introduced
+into the circuit diminish the apparent magnetism in
+each? No
+3. Have you ascertained the law which regulates the proportion of quantity and intensity from the voltaic
+battery necessary to overcome the resistance of the
+wire in long distances, in inducing magnetism in soft
+iron? Ohm has determined it
+4. Is it quantity or intensity which has most effect in
+inducing magnetism in soft iron? Quantity
+5. If the conductors be extended a distance of 10 miles or
+more, the magnetic effect from a given number of
+plates is enfeebled from the increased resistance of
+a longer wire. I would ask if the magnetism may
+not be thus increased in various ways in the soft iron
+at that distance? 1st: By increasing the number of coils
+around the poles of the magnet? Second: By increasing the size
+and number of pairs of plates in the battery? Third: By increasing
+the size of the wire?
+6. What form of generator of galvanism is best for long distances?
+Is the inductive apparatus of Pixii best?
+Or the common Daniell's battery? or, are any other forms of galvanic apparatus better than the above
+That is from any generator of the Galvanic current, whether a voltaic,
+induction, or thermo-electric apparatus.
+98672
+To 5th & 6th no answer recorded at the time

@@ -1,0 +1,57 @@
+description of the figures
+& changes of the instrument, called the
+Intermediate Station
+Changes.
+"At any Intermediate Station say Springfield between
+Boston & New York there are two instruments
+represented by the receiving magnets M.M. the one to correspond
+with Boston
+and the other with
+New York, the main
+line is connected with
+the magnets at instantly
+from P. The Keys are at
+K, and the Changes is
+connected with both magnets at connecting points
+C. The Buttons, i.h.
+are made to connect
+the various points at
+a, b, c, d, e, g, h, x which
+are connected, as
+in the diagram (and the
+instrument) lead, with
+the Battery B. to plate P.
+If there is a Battery at Boston
+and it is wired to correspond
+between Boston & Springfield,
+connect C.C. by turning K in
+2 arrows, leaving K at O.
+The current then comes from
+the Battery B. to plate P.
+and then through
+the instrument at M
+operates it and
+passes out at C goes to
+plate P and back to Boston. If no
+Battery is in Boston, then connect
+points d, e, f, g by R,2, and
+Battery B is put in action with
+plate P. If Springfield
+is in New York and is connected
+to battery B, then connect
+points b, c, d, e, f, g by R,2, if no
+battery is in New York, connect a, b,
+c, d, e, f, g by R,2, if Boston is in
+New York, connect c, c, d, e, f, g by R,2, and g, g, f, by R,2. The
+Batteries at Boston, pass through M to
+C, crosses R,2 to C, then to Plate P
+and back to Boston, while the Batteries
+connected in New York, passes through M
+to D, D, 9 crosses R,2 to G, and then
+to D' and then to Plate P and back to
+New York. To shut off the plate P & Batteries
+connect X, X by R,2. Both instruments will thus receive all that
+passes between C & F on each
+side of the line between Boston & Springfield.
+219
+Diagram illustrating the connections for the intermediate station changes, showing points K, M, P, B, C, D, E, F, G, H, X, and various wires and connections.

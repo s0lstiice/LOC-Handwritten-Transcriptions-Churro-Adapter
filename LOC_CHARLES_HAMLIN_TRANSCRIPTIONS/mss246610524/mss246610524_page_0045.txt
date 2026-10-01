@@ -1,0 +1,40 @@
+12
+FACTORY EMPLOYMENT
+MILLIONS OF EMPLOYEES
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+MILLIONS OF EMPLOYEES
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+1928
+1929
+[LineChart description]
+Total Factory Employment
+Nondurable Group
+Durable Group

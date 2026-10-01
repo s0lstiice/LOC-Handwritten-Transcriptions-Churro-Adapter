@@ -1,0 +1,25 @@
+- 29 -
+when the price of a stock rises to 133 percent of its three-year low it is
+permissible to borrow as much as 75 percent of its market price and an in-
+crease in price can result in pyramiding of profits. From that point until
+the price reaches 182 percent of its low, the amount that can be borrowed
+remains constant at 100 percent of the low price. During that period the
+percentage of the margin to the permissible loan increases, but the actual
+amount that can be borrowed remains unchanged and, therefore, no pyramiding
+is possible. When the price of the security gets above 182 percent of its
+low, the formula results in a constant 45 percent margin requirement. This
+is the highest proportionate margin provided for in the formula, but since
+every increase of $1.00 in the price of the stock from that point permits
+an increase of 55 cents in the amount that can be borrowed on it, it be-
+comes possible once more to pyramid profits arising from price advances.
+In this way the formula, though providing a higher margin requirement for
+stocks that have advanced rapidly, results in removal of the anti-pyramid-
+ing restraint when the stocks have advanced beyond 182 percent of their lows.
+At the present time stocks in which two-thirds of the trading is done,
+including many market leaders, have emerged from the anti-pyramiding zone
+and, though subject to the 45 percent margin requirement, will afford
+opportunities for pyramiding profits in the event of further advances in
+prices.
+The course of the market in the immediate future requires close
+observation to determine whether and when a change in the formula or
+in the level of required margins shall become desirable.

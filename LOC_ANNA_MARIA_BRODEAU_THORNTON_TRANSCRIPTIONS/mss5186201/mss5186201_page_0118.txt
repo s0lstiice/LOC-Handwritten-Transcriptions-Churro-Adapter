@@ -1,0 +1,158 @@
+1825
+from Philadelphia to Port
+Washington
+100000000000000000000000000000000
+100000000000000000000000
+180000000000000000000000000000000
+180000000000000000000000000
+100000000000000000000000000
+20000000000000000000000000000000 1800000000000000000000000000000
+180000000000000000000000000000
+2000000000000000000000000000000 200000000000000000000000000000
+[1800000000000000000000000000000 1000000000000000000000000000000
+100000000000000000000000000000
+[1000000000000000000000000000000 3000000000000000000000000000000
+300000000000000000000000000000
+[3000000000000000000000000000000 4000000000000000000000000000000
+400000000000000000000000000000
+[400000000000000000000000000000 500000000000000000000000000000
+]500000000000000000000000000000
+]500000000000000000000000000000 600000000000000000000000000000
+]600000000000000000000000000000
+]]600000000000000000000000000000 700000000000000000000000000000
+]]700000000000000000000000000000 800000000000000000000000000000
+|800000000000000000000000000000
+|800000000000000000000000000000 900000000000000000000000000000
+)900000000000000000000000000000
+)900000000000000000000000000000 1100000000000000000000000000000
+(1100000000000000000000000000000 1200000000000000000000000000000
+\1200000000000000000000000000000 1300000000000000000000000000000
+-1300000000000000000000000000000 1400000000000000000000000000000
+-1400000000000000000000000000000 1500000000000000000000000000000
++1500000000000000000000000000000 1600000000000000000000000000000
++1600000000000000000000000000000 1700000000000000000000000000000
+\1700000000000000000000000000000 1900000000000000000000000000000
+\1900000000000000000000000000000 2100000000000000000000000000000
++2100000000000000000000000000000 2300000000000000000000000000000
+]]2300000000000000000000000000000 2500000000000000000000000000000
+]]2500000000000000000000000000000 2700000000000000000000000000000
+]2700000000000000000000000000000 2900000000000000000000000000000
++2900000000000000000000000000000 3100000000000000000000000000000
+\3100000000000000000000000000000 3300000000000000000000000000000
+-3300000000000000000000000000000 3500000000000000000000000000000
+350000000000000000000000000000 3700000000000000000000000000000
++370000000000000000000000000000 3900000000000000000000000000000
+]390000000000000000000000000000 4100000000000000000000000000000
+\410000000000000000000000000000 4300000000000000000000000000000
+-430000000000000000000000000000 4500000000000000000000000000000
+1000000000000000000000000000000]4700000000000000000000000000000
+1100000000000000000000000000000]4900000000000000000000000000000
+1200000000000000000000000000000]5100000000000000000000000000000
+1300000000000000000000000000000]5300000000000000000000000000000
+1400000000000000000000000000000]5500000000000000000000000000000
+2000000000000000000000000000000]5700000000000000000000000000000
+2100000000000000000000000000000]5900000000000000000000000000000
+2200000000000000000000000000000]6100000000000000000000000000000
+2300000000000000000000000000000]630
+1789. The President of the United States, in his message to the
+House of Representatives, on the 20th of February, 1789, says:
+"The people of the United States are now in possession of the
+seat of government, and the administration of the
+executive power. Their confidence is placed in me, and
+the people expect that I shall use my best endeavours
+to promote the prosperity of the United States. I
+have no other object than to promote the general
+welfare. I have no other interest than that of
+the United States. I have no other ambition than
+to serve the United States with all my abilities."
+And in the Senate, on the 20th of February, 1789, the
+President of the United States, in his message to the
+Senate, says:
+"The people of the United States are now in possession of
+the seat of government, and the administration of the
+executive power. Their confidence is placed in me, and
+[illegible reason="scribbled mark obscuring text" extent="ca. 1 word"]
+the people expect that I shall use my best endeavours
+to promote the prosperity of this country. I have no
+other object than to promote the general welfare. I
+have no other interest than that of the United States.
+I have no other ambition than to serve the United
+States with all my abilities."
+And in the House of Representatives, on the 20th of
+February, 1789, the Speaker of the House of
+Representatives, in his message to the House of
+Representatives, says:
+"The people of the United States are now in possession
+of the seat of government, and the administration of
+the executive power. Their confidence is placed in
+me, and the people expect that I shall use my best
+endeavours to promote the prosperity of the United
+States. I have no other object than to promote the
+general welfare. I have no other interest than that
+of the United States. I have no other ambition
+than to serve the United States with all my abilities."
+And in the Senate, on the 20th of February, 1889, the
+President of the United States, in his message to the
+Senate, states:
+"The people of the United States are now in possession
+of the seat of government, and of the administration
+of the executive power. Their confidence is placed in
+me, and the people expect that I shall use my best
+[illegible reason="scribbled mark obscuring text" extent="ca. 1 word"]
+endeavours to promote the prosperity of the United
+States. I have no other object than to promote the
+general welfare. I have no other interest than that
+of the United States. I have no other ambition
+than to serve the United States with all my abilities."
+And in the House of Representatives, on the 20th of
+February, 1789, the Speaker of the House of
+Representatives, in his message to the House of
+Representatives, states:
+"The people of the United States are now in possession
+of the seat of government, and of the administration
+of the executive power. Their confidence is placed in
+me, and the people expect that I shall use my best
+endeavours to promote the prosperity of the United
+States. I have no other object than to prom-
+ote the general welfare. I have no other interest
+than that of the United States. I have no other
+ambition than to serve the United States with all
+my abilities."
+And in the Senate, on the 20th of February, 1789, the
+President of the United States, in his message to the
+Senate, states:
+"The people of the United States are now in possession
+of the seat of government and the administration of
+the executive power. Their confidence is placed in
+me, and the people expect that I shall use my best
+[illegible reason="scribbled mark obscuring text" extent="ca. 1 word"]
+endeavours to promote the prosperity of the United
+States. I have no other object, than to promote the
+general welfare. I have no other interest than that
+of the United states. I have no other ambition
+than to serve the United States with all my abilities."
+[illegible reason="scribbled mark obscuring text" extent="ca. 1 word"]
+"The people of the United States are now in possession
+of the seat of government, and the administration
+of the executive power. Their confidence is placed in
+me, and the people expects that I shall use my best
+endeavours to promote the prosperity of the United
+States." I have no other object than to promote the
+general welfare. I have no other interest than that
+of the United States. I have no other ambition
+than to serve the United States with all my
+abilities."
+And in the House of Representatives, on the 20th of
+February, 1789, the Speaker of the House of
+Representatives, in his message, to the House of
+Representatives, states:
+"The people of the United States are now in posses-
+sion of the seat of government, and of the adminis-
+tration of the executive power. Their confidence is
+placed in me, and the people expect that I shall use
+my best endeavours to promote the prosperity of the
+United States. I have no other object than to pro-
+mote the general welfare. I have no other interest
+than that of the United States. I have no other
+ambition than to serve the United States with all
+my abilities."

@@ -1,0 +1,31 @@
+3
+du brevet précédant.
+T, petits vases pour recueillir le mercure.
+K, K, Conducteur rentrant d'un des pôles du générateur
+et se terminant à un bout dans un vase de mercure.
+K, Conducteur partant de l'autre vase de mercure
+et communiquant avec l'électro-aimant T.
+T, Electro-aimant, à un bout duquel commence
+le conducteur K, dont les bêlées entourent toute la cir-
+cuité du ét conducteur K, passe ensuite de la même manière à un second
+électro-aimant et ainsi du reste jusqu'au dernier,
+alors ce conducteur retourne en ligne droite et non
+interrompu vers le second des pôles du générateur
+avec lequel il se met en communication.
+M. Lagneteau a basculé servant à interrompre à
+volonté le circuit : à cet effet, on soutient le
+bout opposé du levier à fourchette T, et interrompt
+la communication.
+N, N, N, Série d'engrenages semblables à ceux d'une
+harpe, mis en marche par un poids et une
+corde. On pourrait aussi emprunter le mouve-
+ment à un report contenu dans un carillon,
+comme dans les pendules. La roue N qui marche
+plus lentement que les autres mène la roue M
+au moyen d'une roue à engrenages K, liée à
+celle ci et montée sur le même axe.
+00, Timbre sur lequel vient frapper le montant V
+de la dynamo d'électro-aimant montée sur un
+tenor R qui a son centre de mouvement
+sur la barre S.
+98538

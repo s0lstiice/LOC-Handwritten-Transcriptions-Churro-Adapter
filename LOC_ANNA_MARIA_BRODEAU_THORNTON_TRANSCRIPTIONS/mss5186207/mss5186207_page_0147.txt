@@ -1,0 +1,106 @@
+1844
+1644 50
+12 30
+25
+25
+1 00
+1 25
+10
+2 50
+05
+05
+1662 28
+Nov
+1 brought over
+1 died not present -- Mr. Kennedy
+2 died not present -- Mr. Smith -- Mr. Fitzsimons
+3 died not present -- Mr. Kennedy -- Mr. Fitzsimons
+4 Mr. Fitzsimons -- Mr. Smith -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+5 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr.
+6 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr.
+7 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr.Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimon
+8 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitz
+9 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr
+10 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr
+11 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr Fitzgerald -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+12 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr, Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsi
+13 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr,Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsi
+14 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr., Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzs
+15 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+16 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+17 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+18 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+19 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+20 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+21 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- 22 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+23 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+24 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+25 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --
+1644 50
+12 30
+25
+25
+1 00
+1 25
+10
+2 50
+05
+05
+1662 28
+Nov
+1 brought over
+1 died not present -- Mr. Kennedy
+2 died not present -- Mr. Smith -- Mr. Fitzsimons
+3 died not present -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzgerald -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons
+4 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons --Mr.Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzgerald --
+5 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsi
+6 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsi
+1844
+1644 50
+12 30
+25
+25
+1644 50
+25
+12 30
+25
+1644 50
+25
+12 30
+25
+1644 50
+25
+12 30
+25
+1644 50
+25
+12 30
+25
+1644 50
+25
+12 30
+25
+12 30
+25
+1644 50
+12 30
+25
+25
+1 00
+1 25
+10
+2 50
+05
+05
+1662 28
+Nov
+1 brought over
+1 died not present -- Mr. Kennedy
+2 died not present -- Mr. Smith -- Mr. Fitzsimons
+3 died not present -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons
+4 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsi
+5 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitz
+6 Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitzsimons -- Mr. Fitz
+1844
+1644 50
+12 30</Line

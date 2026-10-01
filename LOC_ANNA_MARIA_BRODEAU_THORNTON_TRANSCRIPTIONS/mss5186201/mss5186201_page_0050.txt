@@ -1,0 +1,65 @@
+100000000000000000000000000000000
+10000000000000000000000000
+[ 49 ]
+Take South-Carolina and Georgia, multiply by 3 and divide,
+and divide the product by 45 or multiply by 18 and divide by 45.
+2d. To reduce South-Carolina and Georgia, into New-
+Hampshire, Massachusetts, Rhode-Island, Connecticut and
+Virginia, divide the product by 18 and divide by 45.
+3d. To reduce Pennsylvania, New-Jersey, Delaware and Maryland,
+multiply the given sum by 45 and divide by 18.
+4th. To reduce the given sum to the given sum, sub-
+tract 1/18th, and double the remainder.
+Commissioners of Loans.
+States.
+Officers.
+Soldiers.
+Commissioners of Loans.
+Commissioners of Loans.
+New-Hampshire,
+William Gardner,
+600
+Dollars.
+113
+Massachusetts,
+Nathaniel Appleton,
+1800
+Dollars.
+Connecticut,
+John Bowen,
+600
+1800
+New-York,
+William Ingly,
+1800
+New-Jersey,
+Matthew Chalklin,
+1800
+" Dollars. "
+Pennsylvania,
+Stephen Moylan,
+1800
+"Dollars."
+Delaware,
+James Timmer,
+600
+" Dollars. "
+Virginia,
+Samuel Harwood,
+1800
+"[Dollars.]"
+North Carolina,
+John Hodgkins,
+1800
+"(Dollars.)"
+South Carolina,
+William Kinser,
+1800
+[Dollars]
+TableRow>
+Georgia,
+John Newville,
+1800
+[ Dollars ]
+Richard Wylly,
+750

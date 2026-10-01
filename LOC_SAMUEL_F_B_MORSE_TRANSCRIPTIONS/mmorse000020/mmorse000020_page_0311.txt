@@ -1,0 +1,13 @@
+Diagram of a telegraph system with labels A through D and associated text descriptions.
+A Register of Morse Telegraph
+B Comcells Relay Magnet
+C Local battery of 5 per plates connected with the magnet
+in the Register and the brake 8 wire & line in Relay
+Magnet.
+D Main Battery with 15 per of plates, one post connected
+with copper plate in the ground, the other post
+with magnet in Relay Magnet through the
+relay magnet to the circuit under steam in the
+brake box in Register, and through the spring
+in said box to the circuit is closed to the
+wire E extending to the other station.

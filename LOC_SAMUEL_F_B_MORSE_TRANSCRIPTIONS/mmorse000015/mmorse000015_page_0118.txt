@@ -1,0 +1,6 @@
+Instrument for writing
+in Cypher. Eliot Blake
+in Haven
+Prof. S.F.B. Morse
+Washington
+DC

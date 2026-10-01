@@ -1,0 +1,16 @@
+Extract from the March number
+of the Magazine of Popular Science for 1836.
+In this Magazine is a letter to the Editor
+dated Munich Dec 23, 1836, in which
+are these passages, the letter begins by
+stating "At a recent meeting of the Acad of Sciences of this place (Munich) Prof.
+Steinheil communes, to the Section of
+Math. & Nat. Philos. an extract from a
+letter he had received from Prof. Gauss of
+"Gottingen. &c." This letter describes experiments made with Induction and
+modern magnets electrical machine apparatus. Prof. Steinheil proposes "to employ it as a galvanometer," to operate a
+magnetic needle.
+"Prof. Gauss has proposed applying this to telegraphic communications in as much as the bar of a second similar
+to the first is placed in the magnetic field of the first, and the current in the second is excited by the
+magnetic induction from the first, the current in the second will be in the same direction as that in the
+first, and if the two bars are connected in series, the current in the circuit will be doubled."

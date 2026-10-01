@@ -1,0 +1,191 @@
+1729
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+1730
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+111382
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+[Line continues]
+[Line contains a date: 1730 Jan 16]
+[Line contains a date: 1730 Jan 17]
+[Line contains a date: 1730 Jan 18]
+[Line contains a date: 1730 Jan 19]
+[Line contains a date: 1730 Jan 20]
+[Line contains a date: 1730 Jan 21]
+[Line contains a date: 1730 Jan 22]
+[Line contains a date: 1730 Jan 23]
+[Line contains a date: 1730 Jan 24]
+[Line contains a date: 1730 Jan 25]
+[Line contains a date: 1730 Jan 26]
+[Line contains a date: 1730 Jan 27]
+[Line contains a date: 1730 Jan 28]
+[Line contains a date: 1730 Jan 29]
+[Line contains a date: 1730 Jan 30]
+[Line contains a date: 1730 Feb 1]
+[Line contains a date: 1730 Feb 2]
+[Line contains a date: 1730 Feb 3]
+[Line contains a date: 1730 Feb 4]
+[Line contains a date: 1730 Feb 5]
+[Line contains a date: 1730 Feb 6]
+[Line contains a date: 1730 Feb 7]
+[Line contains a date: 1730 Feb 8]
+[Line contains a date: 1730 Feb 9]
+[Line contains a date: 1730 Feb 10]
+[Line contains a date: 1730 Feb 11]
+[Line contains a date: 1730 Feb 12]
+[Line contains a date: 1730 Feb 13]
+[Line contains a date: 1730 Feb 14]
+[Line contains a date: 1730 Feb 15]
+[Line contains a date: 1730 Feb 16]
+[Line contains a date: 1730 Feb 17]
+[Line contains a date: 1730 Feb 18]
+[Line contains a date: 1730 Feb 19]
+[Line contains a date: 1730 Feb 20]
+[Line contains a date: 1730 Feb 21]
+[Line contains a date: 1730 Feb 22]
+[Line contains a date: 1730 Feb 23]
+[Line contains a date: 1730 Feb 24]
+[Line contains a date: 1730 Feb 25]
+[Line contains a date: 1730 Feb 26]
+[Line contains a date: 1730 Feb 27]
+[Line contains a date: 1730 Feb 28]
+[Line contains a date: 1730 Feb 29]
+[Line contains a date: 1730 Mar 1]
+[Line contains a date: 1730 Mar 2]
+[Line contains a date: 1730 Mar 3]
+[Line contains a date: 1730 Mar 4]
+[Line contains a date: 1730 Mar 5]
+[Line contains a date: 1730 Mar 6]
+[Line contains a date: 1730 Mar 7]
+[Line contains a date: 1730 Mar 8]
+[Line contains a date: 1730 Mar 9]
+[Line contains a date: 1730 Mar 10]
+[Line contains a date: 1730 Mar 11]
+[Line contains a date: 1730 Mar 12]
+[Line contains a date: 1730 Mar 13]
+[Line contains a date: 1730 Mar 14]
+[Line contains a date: 1730 Mar 15]
+[Line contains a date: 1730 Mar 16]
+[Line contains a date: 1730 Mar 17]
+[Line contains a date: 1730 Mar 18]
+[Line contains a date: 1730 Mar 19]
+[Line contains a date: 1730 Mar 20]
+[Line contains a date: 1730 Mar 21]
+[Line contains a date: 1730 Mar 22]
+[Line contains a date: 1730 Mar 23]
+[Line contains a date: 1730 Mar 24]
+[Line contains a date: 1730 Mar 25]
+[Line contains a date: 1730 Mar 26]
+[Line contains a date: 1730 Mar 27]
+[Line contains a date: 1730 Mar 28]
+[Line contains a date: 1730 Mar 29]
+[Line contains a date: 1730 Mar 30]
+[Line contains a date: 1730 Apr 1]
+[Line contains a date: 1730 Apr 2]
+[Line contains a date: 1730 Apr 3]
+[Line contains a date: 1730 Apr 4]
+[Line contains a date: 1730 Apr 5]
+[Line contains a date: 1730 Apr 6]
+[Line contains a date: 1730 Apr 7]
+[Line contains a date: 1730 Apr 8]
+[Line contains a date: 1730 Apr 9]
+[Line contains a date: 1730 Apr 10]
+[Line contains a date: 1730 Apr 11]
+[Line contains a date: 1730 Apr 12]
+[Line contains a date: 1730 Apr 13]
+[Line contains a date: 1730 Apr 14]
+[Line contains a date: 1730 Apr 15]
+[Line contains a date: 1730 Apr 16]
+[Line contains a date: 1730 Apr 17]
+[Line contains a date: 1730 Apr 18]
+[Line contains a date: 1730 Apr 19]
+[Line contains a date: 1730 Apr 20]
+[Line contains a date: 1730 Apr 21]
+[Line contains a date: 1730 Apr 22]
+[Line contains a date: 1730 Apr 23]
+[Line contains a date: 1730 Apr 24]
+[Line contains a date: 1730 Apr 25]
+[Line contains a date: 1730 Apr 26]
+[Line contains a date: 1730 Apr 27]
+[Line contains a date: 1730 Apr 28]
+[Line contains a date: 1730 Apr 29]
+[Line contains a date: 1730 Apr 30]
+[Line contains a date: 1730 May 1]
+[Line contains a date: 1730 May 2]
+[Line contains a date: 1730 May 3]
+[Line contains a date: 1730 May 4]
+[Line contains a date: 1730 May 5]
+[Line contains a date: 1730 May 6]
+[Line contains a date: 1730 May 7]
+[Line contains a date: 1730 May 8]
+[Line contains a date: 1730 May 9]
+[Line contains a date: 1730 May 10]
+[Line contains a date: 1730 May 11]
+[Line contains a date: 1730 May 12]
+[Line contains a date: 1730 May 13]
+[Line contains a date: 1730 May 14]
+[Line contains a date: 1730 May 15]
+[Line contains a date: 1730 May 16]
+[Line contains a date: 1730 May 17]
+[Line contains a date: 1730 May 18]
+[Line contains a date: 1730 May 19]
+[Line contains a date: 1730 May 20]
+[Line contains a date: 1730 May 21]
+[Line contains a date: 1730 May 22]
+[Line contains a date: 1730 May 23]
+[Line contains a date: 1730 May 24]
+[Line contains a date: 1730 May 25]
+[Line contains a date: 1730 May 26]
+[Line contains a date: 1730 May 27]
+[Line contains a date: 1730 May 28]
+[Line contains a date: 1730 May 29]
+[Line contains a date: 1730 May 30]
+[Line contains a date: 1730 Jun 1]
+[Line contains a date: 1730 Jun 2]
+[Line contains a date: 1730 Jun 3]
+[Line contains a date: 1730 Jun 4]
+[Line contains a date: 1730 Jun 5]
+[Line contains a date: 1730 Jun 6]
+[Line contains a date: 1730 Jun 7]
+[Line contains a date: 1730 Jun 8]
+[Line contains a date: 173

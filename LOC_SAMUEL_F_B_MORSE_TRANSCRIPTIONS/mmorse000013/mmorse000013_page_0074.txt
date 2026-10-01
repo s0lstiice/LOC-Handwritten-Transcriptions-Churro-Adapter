@@ -1,0 +1,33 @@
+4
+Opération
+Avant de décrire les fonctions de l'appareil
+ci-dessus, je crois devoir faire remarquer que pendant
+qu'il est au repos, l'électro-magnétisme est en
+circulation sur toute la ligne, et que c'est seulement
+quand les circuits sont interrompus que
+l'appareil est mis en activité. Ce qui constitue
+une différence avec le mode décrit dans le premier
+brevet, dans lequel l'appareil est en repos, quand
+la circulation est interrompue, et ne marche que
+quand la communication est rétablie.
+On établit un appareil semblable à celui ci-
+dessus décrit et représenté dans les dessins ci-joints
+à tous les endroits de la ligne, avec lesquels on
+désire établir communication. Quand le locomoteur
+et son train ont refoulé la tige B, celle-ci
+fait basculer le tiroir C, et éteint la tige F, qui
+dans sa marche ascendante fait échapper la
+distente G, alors la roue H n'étant plus retenue
+ce déclenche le mouvement que lui impose la roue
+I, et tourne sur son axe. Ses dents viennent
+succesivement en contact avec le talon du levier
+et s'abaissent.
+Le levier I pivote alors sur son centre de
+mouvement et la fourchette qu'il porte à son
+extrémité opposée est retirée des vases de
+mercurie, le courant galvanique cesse de passer
+dans les conducteurs, l'électro aimant perd sa
+force attractrice, et l'armature Q s'en éloigne
+sollicitée par un repos. Le mouvement du
+levier R rend toute liberté au marteau T qu'il
+tenait soulevé, celui-ci retombe et coupe le timbre.

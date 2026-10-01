@@ -1,0 +1,45 @@
+1 Chambers Cyclopedicin 4 50
+1 Annual Register 25 300
+1 New annual go 10
+1 Monthly Reviews 10
+1 Johnson's Dictionary 2 40
+1 Sheridan 2 300
+1 Kathers 1
+1 Spinetik 1
+1 Italian 1 200
+1 Serpents Arithmetic 2 100
+1 European Magazine 4 200
+1 Chambert Cyclopedicin 4 50
+1 Annual Register 25 300
+[1 New annual go 10
+[1 Monthly Reviews 10
+[1 Johnson's Dictionary 2 40
+[1 Sheridan 2 300
+[1 Kathers 1
+[1 Spinetik 1
+[1 Italian 1 200
+[1 Serpents Arithmetic 2 100
+[1 European Magazine 4 200
+[1 Miscellaneous 200
+[1 Martial's Epigrams 1 40
+[1 Patrick's Terence 2 300
+[1 Brutus of Shakespeare 2 100
+[1 Shakspeare's Works 2
+[1 Langhorne's poems 2
+[1 Thompson's lessons 1
+[1 Brattie's poems 1
+[1 Conquer's Task 1
+[1 Young's Night Thoughts 1
+[1 Cadell's Men of Pride 1
+[1 Man of Felicity 1
+[1 Lady's Magazines 15
+[1 Clarissa Harlow 7 100
+[1 Sir Charles Grandison 1
+[1 Old English Baron 1
+[1 Annales de la Vertu 3
+[1 Aude et Hazard 2
+[1 Comedies Françoises 1
+[1 La Fayette's Sermones 2
+[1 Memorie de M. Herthheim 2
+[1 Clemens 1
+[1 Lettres Peruvianes 1

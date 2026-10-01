@@ -1,0 +1,28 @@
+The Break Selector
+The use of this instrument is to detect the
+position of a break in a long line of conductors.
+At many convenient distances along the line, the
+conductors are brought within the house of the person
+or persons whose duty it is to keep the line in re-
+pair, and the wire from the left is attached to the
+left wire of the instrument and the wire from the
+right to the right wire. A plate of copper is also
+buried in the earth and a wire or wires attached to the
+instrument as in the diagram. A small battery of
+2 or 3 cells must be in readiness to be attached when
+the emergency requires it.
+In plate 2.
+Immediately beneath the letter ABCDEF is the galvanom-
+eter or magnetic needle, and in plate 1st Fig. 1. a.
+Ordinarily the instrument stands as in figure A.
+Supposing the battery to be on the left, the current of electricity
+take the direction of the arrows through the galvanometer, and
+if the whole line is sound the needle will be in constant
+vibration.
+Let us now suppose that the line is broken on the
+right, the battery is on the left, if the knobs 3. 4. 5.
+be turned as in Fig. B. the current passes unbroken
+through the galvanometer in the direction of the arrows
+and the needle is in motion showing the line to be
+sound to the left
+214

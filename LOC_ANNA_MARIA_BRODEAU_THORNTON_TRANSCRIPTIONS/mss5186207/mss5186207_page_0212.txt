@@ -1,0 +1,82 @@
+1861
+Aug 1st
+31 From Bynum
+10000
+29
+From P Smith
+50000
+Sept 28
+29 From Bynum to Bank
+80000
+Oct 28
+29 Check to Bank (self)
+35000
+Nov 4
+29 From C Miller 1862 Check to Bank
+100000
+13
+29 From Smith get one hundred $ to pay back
+100000
+16
+29 From Smith to Bank
+50000
+18
+29 From Smith to Bank
+50000
+Bal
+3
+29 From Miller to Bynum
+100000
+10
+29 From Bynum to Smith
+100000
+16
+29 Bank to Smith
+100000
+18
+29 From Smith to Bank
+100000
+1862
+Jan 6
+29 Dividends Bk Washington
+125000
+29 Check to self
+40000
+29 Check to self
+[Line uncertain]
+29 Check to self
+400
+29 Check to self
+40000
+29 Check to self
+40
+29 Check to self
+[Line uncertain]
+29 Check to self
+29 Check to self
+29 Check to self
+29 Check to self
+29 Check to self
+29 Check to self
+29 Check to self
+[Line uncertain]
+29 Check to self
+[Line uncertain]
+29 Check to self
+[line uncertain]
+29 Check to self
+[line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]
+29 Check to self
+[Line unknown]

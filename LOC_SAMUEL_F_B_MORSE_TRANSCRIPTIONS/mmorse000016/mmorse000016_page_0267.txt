@@ -1,0 +1,80 @@
+YEA.
+NAMES.
+NAV.
+YEA.
+NAV.
+NAMES.
+YEA.
+NAMES.
+YEA.
+NAMES.
+1
+Amos Abbott,
+Mass.
+30
+John B. Dawson,
+Andrew Johnson,
+Tenn.
+31
+Orville Robinson,
+Ohio
+2
+John Quincy Adams,
+Mass.
+Geo. Deup,
+Ohio
+George W. Jones,
+Tenn.
+12
+Julius Rockwell,
+Mass.
+3
+Joseph H. Anderson,
+N.Y.
+31
+Edmund Deberry,
+N.C.
+Andrew Kennedy,
+Ida.
+57
+George B. Roaney,
+Del.
+4
+Archibald H. Arrington,
+N.C.
+32
+James Dellet,
+Ala.
+John P. Kennedy,
+Mo.
+55
+Charles Rogers,
+N.Y.
+5
+John B. Ashe,
+Tenn.
+23
+John Dickey,
+Pa.
+Preston King,
+N.Y.
+55
+Jeremiah Russell,
+N.Y.
+6
+Archibald Atkinson,
+Va.
+3
+Paul Dillingham, jr.,
+Va.
+Andrew King,
+Tenn.
+58
+Henry S. John,
+Ohio
+7
+Charles S. Benton,
+N.Y.
+8
+Benjamin A. Bridleack,
+Pa.

@@ -1,0 +1,4 @@
+18
+WHOLESALE PRICES
+1926 average = 100
+Line graph showing wholesale prices for different categories of goods from 1932 to 1935. The x-axis is labeled "1932" (left), "1933", "1934", "1935" (right), and the y-axis is labeled "PER CENT" (left) and "PER CENT" (right). Three lines are plotted: "All Commodities", "Foods", and "Other Commodities".

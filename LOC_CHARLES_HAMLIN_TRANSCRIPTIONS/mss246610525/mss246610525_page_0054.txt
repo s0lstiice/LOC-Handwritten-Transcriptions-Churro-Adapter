@@ -1,0 +1,69 @@
+=ILLUSTRATIONS OF THE MODUS OPERANDI OF A 100 PERCENT RESERVE PLAN=
+A. A simplified statement of a bank's condition immediately prior to
+the adoption of the plan.
+100 deposits
+15 legal reserve and vault cash
+5 excess reserve
+60 loans and investments
+B. The 100% reserve requirement plan then goes into effect and the
+bank borrows 85 reserve from the reserve banks.
+100 deposits
+}}
+100 legal reserve
+}}
+85 due to reserve banks
+}}
+5 excess reserve
+}}
+60 loans and investments
+}}
+85 loans and investments
+}}
+C. The bank then invests its excess reserve.
+100 deposits
+}
+100 reserves
+}}
+85 due to reserve banks
+}}
+85 loans and investments
+}}
+D. The bank then gains an average of 10 new deposits over a 6 months'
+period.
+110 deposits
+}}
+110 reserves
+}}
+85 due to reserve banks.
+}}
+85 loans and investments
+}}
+The reserve banks then pay the member banks, say, 3% the current
+yield on Government bonds, of 85% of 110 - 100 = .255
+E. The bank then loses deposits so that over the next 6 months' period
+its deposits are 10 less than when the plan takes effect.
+90 deposits
+}}
+90 reserves
+}}
+85 due to reserve banks,
+}}
+85 loans and investments
+}}
+Table>
+The bank then pays the reserve banks, say, 3% of 85% of 100-90 = .255
+F. The bank deposits remain as in E and in addition it reduces its
+borrowings from the reserve bank by 10.
+90 deposits
+}}
+75 due to reserve banks
+}}
+90 reserves
+}}
+75 loans and investments
+}}
+}}
+As before, the bank pays the reserve banks .255 every 6 months
+and the reserve banks pay the bank, say, 3% of 10, the amount
+by which the bank reduced its indebtedness, which equals .3
+651

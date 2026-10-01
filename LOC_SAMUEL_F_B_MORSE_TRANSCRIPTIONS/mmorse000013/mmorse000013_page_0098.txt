@@ -1,0 +1,35 @@
+Mémoire Descriptif
+Introduction,
+Les Modifications apportées à l'appareil décrit au Bureau d'Orison ont pour
+objet de supprimer au service des chemins de fer, de manière à faire connaître la position
+de chaque locomotive et du train de wagons sur la voie de fer qu'ils parcourent,
+a indiquer successivement les diverses stations auxquelles ils parviennent, &
+à transmettre, dès avis & des ordres sur toute la longueur de la ligne, ou à toutes
+les stations.
+Dessins,
+Figure 1, offre une situation verticale de l'appareil de télégraphie
+par l'électricité magnétique pour transmettre des ordres &
+des avis sur des chemins de fer.
+Figure 2, est la vue d'ensemble du même appareil.
+Figure 3, Situation verticale de l'appareil en lui opposé à celui
+représenté figure 1.
+Figure 4, Vue latérale du même Appareil prise du côté droit de la ligne.
+Figure 5, Vue latérale du même Appareil prise du côté opposé à celui d'usage.
+Figure 6, C'était à la détente.
+Figures 7, 8, 9, 10, Représentes la première d'une dent, la seconde de
+deux dents, la troisième de trois dents, la quatrième de quatre
+dents, sans compter une dente de mise en ligne qui existe
+sur toutes les Reprises.
+Description,
+A, C'est la borne d'un Rail auquel l'appareil communique.
+B, C'est un fer traversant une meulaise pratiquée dans le Rail A, la dite ligne
+infinitésimale par barre au levier horizontal C.
+C, Levier horizontal ayant son centre de mouvement en D sur un boulon
+en cheville réglable reposant dans des canneslets en bois ou en pierre. Ce levier est
+chargé à son extrémité par un poids E, qui maintient avec force le levier
+sur son appui F, de manière qu'une pression légère telle que celle causée
+par le pied d'un homme puisse faire fléchir la ligne B, c'est à dire le levier
+C mettre le mécanisme en marche comme nous le verrons ci après.
+F, Levier vertical articulé à l'extrémité du levier C : le levier F joue dans des
+guides fixés à la paroi de l'appareil.
+98552

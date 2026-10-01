@@ -1,0 +1,18 @@
+Improvement in the Electric Magnetic Telegraph
+by means of which more than one pen can operate through one circuit.
+A 1 , A 2 , A 3 , A 4 are magnets of different sizes with
+their coils a helices also of different sizes. The poles of
+the helices are connected with a battery in the following
+manner. A 1 , the smallest magnet is connected with the whole
+number of cups (say 12) in number of the battery, being the weakest
+magnet from its fewer coils in the helix, or more
+coils to give power enough to move the Respec attached to the lever
+of my Register. A 2 , the next larger has more coils in the helix
+and will require a less number of cups in the battery to move
+the lever of the Register (say 9 cups) A 3 still larger requires
+still fewer (say 6 cups) and A 4 still larger, requires still fewer
+(say 3 cups) and so on for more magnets. The principle
+of this arrangement is that an electric magnet is (within certain limits,) made more powerful in proportion to the addition of turns of wire or coils in the helix, and is operated upon at a distance in proportion to the number of cups or elements in the battery. By this arrangement I intend to add more than one lever for recording on my paper at the Register, each lever being moved by its own magnet, acting as the battery, more or less in number, are applied to the movement of the several magnets. And this arrangement is intended to operate several magnets at pleasure by one circuit only of wire. (See over leaf.)
+I wish to enter a Caveat for this arrangement made in June of 1845, that I may have time to complete the necessary apparatus for the Specification of Letters Patent.
+(Over)
+30

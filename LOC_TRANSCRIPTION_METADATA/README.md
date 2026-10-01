@@ -1,13 +1,13 @@
 # Library of Congress handwriting transcription drafts
 
-This repository contains **6,477 original page scans paired with 6,477 machine-generated page transcription drafts** from four Library of Congress manuscript collections.
+This repository contains **12,903 original page scans paired with 12,903 machine-generated page transcription drafts** from four Library of Congress manuscript collections.
 
 | Collection | Pages |
 |---|---:|
-| Anna Maria Brodeau Thornton Papers | 423 |
-| Charles S. Hamlin Papers | 1,463 |
-| Margaret Bayard Smith Papers | 1,330 |
-| Samuel F. B. Morse Papers | 3,261 |
+| Anna Maria Brodeau Thornton Papers | 1,229 |
+| Charles S. Hamlin Papers | 2,663 |
+| Margaret Bayard Smith Papers | 2,475 |
+| Samuel F. B. Morse Papers | 6,536 |
 
 ## Status and limitations
 
