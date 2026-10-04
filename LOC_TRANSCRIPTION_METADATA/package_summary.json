@@ -1,6 +1,6 @@
 {
   "schema_version": "loc_transcription_drafts_github.v1",
-  "pages": 13015,
+  "pages": 13037,
   "collections": 5,
   "items": 107,
   "by_collection": {
@@ -8,26 +8,26 @@
     "Charles S. Hamlin Papers": 2663,
     "Margaret Bayard Smith Papers": 2475,
     "Samuel F. B. Morse Papers": 6536,
-    "Charles S. Hamlin Papers — Contextualized Corrections": 112
+    "Charles S. Hamlin Papers — Contextualized Corrections": 134
   },
   "images_included": true,
-  "human_review_required": 13015,
+  "human_review_required": 13037,
   "hamlin_reread_outputs_included": false,
   "source_manifest": "completed two-host cutoff-through-Hamlin run with targeted incomplete-region repair",
-  "image_files": 13015,
-  "image_bytes": 1752329305,
+  "image_files": 13037,
+  "image_bytes": 1756304905,
   "portal_full_text_search": true,
-  "search_index_rows": 13015,
-  "search_index_bytes": 19580554,
-  "hamlin_contextualized_correction_pages": 112,
-  "hamlin_contextualized_corrections": 369,
+  "search_index_rows": 13037,
+  "search_index_bytes": 19629264,
+  "hamlin_contextualized_correction_pages": 134,
+  "hamlin_contextualized_corrections": 424,
   "remote_shard_pages_added": 6426,
   "remote_shard_images_reused": 6342,
   "remote_shard_full_images_downloaded": 84,
   "remote_shard_final_incomplete_regions": 899,
   "remote_shard_structurally_clear_pages": 5539,
-  "portal_records": 13015,
+  "portal_records": 13037,
   "unique_page_ids": 12945,
   "baseline_records": 12903,
-  "contextualized_correction_records": 112
+  "contextualized_correction_records": 134
 }
