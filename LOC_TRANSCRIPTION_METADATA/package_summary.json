@@ -2,7 +2,7 @@
   "schema_version": "loc_transcription_drafts_github.v1",
   "pages": 13015,
   "collections": 5,
-  "items": 94,
+  "items": 107,
   "by_collection": {
     "Anna Maria Brodeau Thornton Papers": 1229,
     "Charles S. Hamlin Papers": 2663,
@@ -18,12 +18,16 @@
   "image_bytes": 1752329305,
   "portal_full_text_search": true,
   "search_index_rows": 13015,
-  "search_index_bytes": 19580535,
+  "search_index_bytes": 19580554,
   "hamlin_contextualized_correction_pages": 112,
-  "hamlin_contextualized_corrections": 228,
+  "hamlin_contextualized_corrections": 369,
   "remote_shard_pages_added": 6426,
   "remote_shard_images_reused": 6342,
   "remote_shard_full_images_downloaded": 84,
   "remote_shard_final_incomplete_regions": 899,
-  "remote_shard_structurally_clear_pages": 5539
+  "remote_shard_structurally_clear_pages": 5539,
+  "portal_records": 13015,
+  "unique_page_ids": 12945,
+  "baseline_records": 12903,
+  "contextualized_correction_records": 112
 }
